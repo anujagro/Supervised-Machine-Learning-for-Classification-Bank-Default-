@@ -1,7 +1,7 @@
 # Supervised-Machine-Learning-for-Classification-Bank-Default-
-Using UCI Bank Default Dataset for building and testing Supervised ML Models
+Using UCI Bank Default Dataset for building and testing Supervised ML Models:
 
-Model: Naive Bayes, Decision Tree, Logistic Regression, Knn, SVM, Random Forest, Gradient Boosting
+Models: Naive Bayes, Decision Tree, Logistic Regression, Knn, SVM, Random Forest, Gradient Boosting
 Other Concepts: Pipelines, Scikit-plot, GridSearch, Cross-Validation
 Metrics, Confusion Metrix, ROC, AUC, Accuracy, Precision, Recall, F1-Score, Threshold vs Recall/Precision, Custom Cost Function
 
